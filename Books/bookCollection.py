@@ -49,7 +49,7 @@ def choose_book(collection, option):
             if 1 <= choice <= len(collection):
                 return collection[choice - 1]
             else:
-                print(f"Please enter a number between 1 and {len(book_collection)}.")
+                print(f"Please enter a number between 1 and {len(collection)}.")
         else:
             print("Invalid input. Please try again.")
 
