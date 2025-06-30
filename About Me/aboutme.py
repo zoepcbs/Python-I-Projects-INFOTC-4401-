@@ -1,0 +1,6 @@
+print('My name is Zoe Pacubas.')
+print('I am 20 year old sophomore working towards her second semester towards an IT degree.')
+print('My favorite hobbies are playing video games, reading books, listening to music, and binging shows.')
+print('Some of the games I play a lot include Overwatch, Minecraft,\nSons of the Forest, Stardew Valley, and Marvel Rivals.')
+print('I hope to pursue a path in the more creative side of IT\nsuch as UX design, media design, 3D modeling, VR/AR, Animation, etc.')
+print("I've had some experience in Python during high school and I really liked it,\nso I'm excited to get back into it.")
